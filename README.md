@@ -5,7 +5,7 @@
 
 I'm a programmer who likes to keep learning.
 
-- 🔭 I’m currently leading teams at Portchain, a danish startup that works in the container shipping industry(not docker, the real one ;-) )
+- 🔭 I’m currently working on platform engineering at GitStart
 - 🌱 I’m currently learning Elixir
 
 
