@@ -5,7 +5,7 @@
 
 I'm a programmer who likes to keep learning.
 
-- 🔭 I’m currently working on platform engineering at GitStart
-- 🌱 I’m currently learning Elixir
+- 🔭 I’m currently working on making payroll easy to use at Deel
+- 🌱 I’m currently learning a lot about MCP and how to leverage LLMs.
 
 
